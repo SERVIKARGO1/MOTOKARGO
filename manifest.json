@@ -1,8 +1,8 @@
 {
   "id": "/SERVIKARGO2/",
-  "name": "ServiKargo",
-  "short_name": "ServiKargo",
-  "description": "Transporte en motocarro y servicios para el hogar · ServiKargo · Cartagena de Indias",
+  "name": "MotoKargo",
+  "short_name": "MotoKargo",
+  "description": "Logística de Transporte y servicios para el hogar · MotoKargo · Cartagena de Indias",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
